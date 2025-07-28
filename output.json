@@ -1,0 +1,10 @@
+{
+    "metadata": {
+        "input_documents": [],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-25T23:37:38.579172"
+    },
+    "extracted_sections": [],
+    "subsection_analysis": []
+}
